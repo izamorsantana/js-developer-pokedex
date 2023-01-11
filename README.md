@@ -1,1 +1,3 @@
 # Trilha JS Developer - Pokedex
+
+Fonte e cores ateradas...
